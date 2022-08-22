@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front End Devloper
 ------------------
 
-I've been learning to code as a hobby, at first I started learning python but then I've become passionate about web development, mostly Front End!
+I'am  learning to code as a hobby, at first I started learning python but then I've become passionate about web development, mostly Front End technologies!
 
 * 🌍  I'm based in Romania
 
